@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.icons {
+    margin: 7px;
+    color: white !important;
+}
+
+.foto-perfil1 {
+    width: 200px;
+    border-radius: 48%;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 200px;
+}
+
+.foto-perfil2 {
+    width: 200px;
+    border-radius: 48%;
+    margin-left: 235px !important;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 25px;
+}
+
+.corPrimaria {
+    background-color: rgb(84, 129, 126);
+    border-radius: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+.skills {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0%;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    margin-bottom: 0%;
+    margin-top: -50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.space {
+    padding-top: 15px;
+}
+
+.sobre {
+    margin: auto;
+    margin-right: 50px;
+    margin-left: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+   
+}
+
+.sobre2 {
+    margin: auto ;
+    margin-right: 235px;
+    margin-left: 50px;
+    
+}
+
+.corSecundaria {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0%;
+    padding-top: 0%;
+    padding-bottom: 60px;
+    margin-bottom: 0%;
+}
+
+.textoBranco {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.textproj {
+    font-size: 40px !important;
+}
+
+.textNavbar {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.projetos {
+    padding-bottom: 70px;
+    z-index: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contato {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.textContato {
+    color: green;
+}
+
+.footer {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto-footer {
+    margin: auto;
+    color: white;
+    
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+
+
+
